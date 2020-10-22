@@ -27,7 +27,7 @@ ______________________________________________
 ______________________________________________
 
 
-Created a heat map that displays the humidity for every city from part I of the homework.
+Created a heat map that displays the humidity for every city from part one of the homework.
 
 Made a clean DataFrame by dropping all null values to find ideal weather condition:
 
