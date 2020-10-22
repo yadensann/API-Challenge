@@ -1,6 +1,8 @@
 ### What's the Weather Like? 
 #### Practice with APIs
 
+
+## WeatherPy
 ______________________________________________
 
 Created a Python script that calls for 606 different cities across the world and created visual aids comparing the weather and it's distance from the equator.
